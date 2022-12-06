@@ -1,2 +1,2 @@
 #!/bin/bash
-ls . -Alt
+ls -t1 | head -n 10
